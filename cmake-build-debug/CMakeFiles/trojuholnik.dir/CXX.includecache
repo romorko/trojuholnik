@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/roman/CLionProjects/MAP2020/trojuholnik/bod.cpp
+bod.h
+/home/roman/CLionProjects/MAP2020/trojuholnik/bod.h
+inout.h
+/home/roman/CLionProjects/MAP2020/trojuholnik/inout.h
+cmath
+-
+cstring
+-
+random
+-
+
+/home/roman/CLionProjects/MAP2020/trojuholnik/bod.h
+iosfwd
+-
+exception
+-
+
+/home/roman/CLionProjects/MAP2020/trojuholnik/inout.h
+iostream
+-
+fstream
+-
+iomanip
+-
+
+/home/roman/CLionProjects/MAP2020/trojuholnik/main.cpp
+inout.h
+/home/roman/CLionProjects/MAP2020/trojuholnik/inout.h
+bod.h
+/home/roman/CLionProjects/MAP2020/trojuholnik/bod.h
+

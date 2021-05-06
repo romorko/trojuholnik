@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/trojuholnik.dir/main.cpp.o CMakeFiles/trojuholnik.dir/bod.cpp.o -o trojuholnik 
